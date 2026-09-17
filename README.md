@@ -8,30 +8,60 @@ The project extracts intermediate feature maps from a convolutional neural netwo
 
 Instead of treating a neural network as a black box:
 
+```text
 Image → Model → Prediction
+```
 
 we visualize what happens inside:
 
+```text
 Image
-↓
+  ↓
 Early Features
-↓
+  ↓
 Edges and Textures
-↓
+  ↓
 Patterns
-↓
+  ↓
 High-Level Features
-↓
+  ↓
 Prediction
+```
 
 ## Stack
 
-- Python
-- PyTorch
-- Torchvision
-- NumPy
-- Matplotlib
+* Python
+* PyTorch
+* Torchvision
+* NumPy
+* Matplotlib
 
-## Project Status
+## Experiment
 
-In development.
+The experiment uses a pretrained ResNet18 model to visualize intermediate activations from different layers.
+
+The test image was classified as:
+
+**Toucan → 99.92% confidence**
+
+Generated visualizations are available in the [`outputs/`](outputs/) directory.
+
+## Article
+
+Read the full experiment and visualization on Medium:
+
+[Can We Watch a Neural Network Think?](https://medium.com/@hasheramin/can-we-watch-a-neural-network-think-79d0d04969bb)
+
+## Connect with Me
+
+<a href="https://LinkedIn.com/in/hasheramin">
+<img src="assets/Logo Used/LinkedIn.png" alt="LinkedIn Logo" width="40"> 
+</a> 
+
+<a href="https://X.com/hasheramin_code">
+<img src="assets/Logo Used/Twitter.png" alt="X(Twitter) Logo" width="40">
+</a>
+
+<a href="https://medium.com/hasheramin">
+<img src="assets/Logo Used/Medium.png" alt="Medium Logo" width="40"> 
+</a>
