@@ -51,17 +51,3 @@ Generated visualizations are available in the [`outputs/`](outputs/) directory.
 Read the full experiment and visualization on Medium:
 
 [Can We Watch a Neural Network Think?](https://medium.com/@hasheramin/can-we-watch-a-neural-network-think-79d0d04969bb)
-
-## Connect with Me
-
-<a href="https://LinkedIn.com/in/hasheramin">
-<img src="assets/Logo Used/LinkedIn.png" alt="LinkedIn Logo" width="40"> 
-</a> 
-
-<a href="https://X.com/hasheramin_code">
-<img src="assets/Logo Used/Twitter.png" alt="X(Twitter) Logo" width="40">
-</a>
-
-<a href="https://medium.com/hasheramin">
-<img src="assets/Logo Used/Medium.png" alt="Medium Logo" width="40"> 
-</a>
